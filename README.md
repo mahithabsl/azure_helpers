@@ -1,4 +1,4 @@
 # Azure helpers
-Helper functions to get started with azure services
+Helper functions to get started for below azure services
 - Blob
 - Table
